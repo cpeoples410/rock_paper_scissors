@@ -1,3 +1,3 @@
 # Demo
 
-Description...
+Demo of Rock-Paper-Scissors game in Python.
